@@ -1,0 +1,10 @@
+C:\Users\FD Bilgisayar\source\repos\EnglishWordsPlay\EnglishWordsPlay\bin\Debug\EnglishWordsPlay.exe.config
+C:\Users\FD Bilgisayar\source\repos\EnglishWordsPlay\EnglishWordsPlay\bin\Debug\EnglishWordsPlay.exe
+C:\Users\FD Bilgisayar\source\repos\EnglishWordsPlay\EnglishWordsPlay\bin\Debug\EnglishWordsPlay.pdb
+C:\Users\FD Bilgisayar\source\repos\EnglishWordsPlay\EnglishWordsPlay\obj\Debug\EnglishWordsPlay.csproj.AssemblyReference.cache
+C:\Users\FD Bilgisayar\source\repos\EnglishWordsPlay\EnglishWordsPlay\obj\Debug\EnglishWordsPlay.Form1.resources
+C:\Users\FD Bilgisayar\source\repos\EnglishWordsPlay\EnglishWordsPlay\obj\Debug\EnglishWordsPlay.Properties.Resources.resources
+C:\Users\FD Bilgisayar\source\repos\EnglishWordsPlay\EnglishWordsPlay\obj\Debug\EnglishWordsPlay.csproj.GenerateResource.cache
+C:\Users\FD Bilgisayar\source\repos\EnglishWordsPlay\EnglishWordsPlay\obj\Debug\EnglishWordsPlay.csproj.CoreCompileInputs.cache
+C:\Users\FD Bilgisayar\source\repos\EnglishWordsPlay\EnglishWordsPlay\obj\Debug\EnglishWordsPlay.exe
+C:\Users\FD Bilgisayar\source\repos\EnglishWordsPlay\EnglishWordsPlay\obj\Debug\EnglishWordsPlay.pdb
